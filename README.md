@@ -69,14 +69,6 @@ You can use it as a checklist — tick the topics once completed ✅.
 
 - [ ] `<header>`, `<footer>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`
 
-### ✅ Iframes
-
-- [ ] `<iframe>` (basic use & when it matters)
-
-### ✅ Deprecated HTML
-
-- [ ] `align`, `<font>` (explain why not used now)
-
 ---
 
 ## 📌 Forms & User Input
