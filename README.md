@@ -143,7 +143,7 @@ You can use it as a checklist — tick the topics once completed ✅.
 
 ---
 
-## 📌 Things Teachers Often Forget
+## 📌 *******
 
 - [ ] Teach `alt` with a broken image example
 - [ ] Show `rel="noopener noreferrer"` security case
@@ -156,7 +156,7 @@ You can use it as a checklist — tick the topics once completed ✅.
 
 ---
 
-## 📌 Suggested Teaching Order
+## 📌 Suggested Order
 
 1. Document structure + headings + paragraphs
 2. Lists, links & images
